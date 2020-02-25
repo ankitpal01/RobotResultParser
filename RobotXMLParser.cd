@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<ClassDiagram Zoom="1" MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="RobotXMLParser.Program" Collapsed="False">
+    <Position X="0.5" Y="0.5" Width="1.977628" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="RobotXMLParser.Keyword" Collapsed="False">
+    <Position X="0.5" Y="3.6" Width="1.956549" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="RobotXMLParser.Robot" Collapsed="False">
+    <Position X="0.5" Y="6.2" Width="1.655768" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="RobotXMLParser.Message" Collapsed="False">
+    <Position X="0.5" Y="8.6" Width="1.497721" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="RobotXMLParser.Statistics" Collapsed="False">
+    <Position X="0.5" Y="10.7" Width="1.566877" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="RobotXMLParser.SuiteStats" Collapsed="False">
+    <Position X="0.5" Y="12.6" Width="1.940329" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="RobotXMLParser.Arg" Collapsed="False">
+    <Position X="0.5" Y="14.4" Width="1.226672" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="RobotXMLParser.Argument" Collapsed="False">
+    <Position X="0.5" Y="16.1" Width="1.560563" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="RobotXMLParser.ResultStatus" Collapsed="False">
+    <Position X="0.5" Y="17.9" Width="1.864245" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="RobotXMLParser.TestCase" Collapsed="False">
+    <Position X="0.5" Y="20.2" Width="2.1013" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="RobotXMLParser.StatDetails" Collapsed="False">
+    <Position X="0.5" Y="22.5" Width="1.676579" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="RobotXMLParser.TestSuite" Collapsed="False">
+    <Position X="0.5" Y="25" Width="1.943981" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="RobotXMLParser.TotalStats" Collapsed="False">
+    <Position X="0.5" Y="27.7" Width="1.940329" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+</ClassDiagram>

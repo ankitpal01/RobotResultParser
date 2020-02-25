@@ -1,0 +1,12 @@
+C:\Users\ankit.pal\Documents\SharpDevelop Projects\RobotXMLParser\RobotXMLParser\bin\Release\RobotXMLParser.exe.config
+C:\Users\ankit.pal\Documents\SharpDevelop Projects\RobotXMLParser\RobotXMLParser\bin\Release\RobotXMLParser.exe
+C:\Users\ankit.pal\Documents\SharpDevelop Projects\RobotXMLParser\RobotXMLParser\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ankit.pal\Documents\SharpDevelop Projects\RobotXMLParser\RobotXMLParser\obj\Release\RobotXMLParser.exe
+C:\Users\ankit.pal\Desktop\1.0.0.0\RobotXMLParser\RobotXMLParser\bin\Release\RobotXMLParser.exe.config
+C:\Users\ankit.pal\Desktop\1.0.0.0\RobotXMLParser\RobotXMLParser\bin\Release\RobotXMLParser.exe.manifest
+C:\Users\ankit.pal\Desktop\1.0.0.0\RobotXMLParser\RobotXMLParser\bin\Release\RobotXMLParser.application
+C:\Users\ankit.pal\Desktop\1.0.0.0\RobotXMLParser\RobotXMLParser\bin\Release\RobotXMLParser.exe
+C:\Users\ankit.pal\Desktop\1.0.0.0\RobotXMLParser\RobotXMLParser\obj\Release\RobotXMLParser.TrustInfo.xml
+C:\Users\ankit.pal\Desktop\1.0.0.0\RobotXMLParser\RobotXMLParser\obj\Release\RobotXMLParser.exe.manifest
+C:\Users\ankit.pal\Desktop\1.0.0.0\RobotXMLParser\RobotXMLParser\obj\Release\RobotXMLParser.application
+C:\Users\ankit.pal\Desktop\1.0.0.0\RobotXMLParser\RobotXMLParser\obj\Release\RobotXMLParser.exe

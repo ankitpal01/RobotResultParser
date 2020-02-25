@@ -1,0 +1,6 @@
+C:\Users\ankit.pal\Documents\SharpDevelop Projects\RobotXMLParser\RobotXMLParser\bin\Debug\RobotXMLParser.exe.config
+C:\Users\ankit.pal\Documents\SharpDevelop Projects\RobotXMLParser\RobotXMLParser\bin\Debug\RobotXMLParser.exe
+C:\Users\ankit.pal\Documents\SharpDevelop Projects\RobotXMLParser\RobotXMLParser\bin\Debug\RobotXMLParser.pdb
+C:\Users\ankit.pal\Documents\SharpDevelop Projects\RobotXMLParser\RobotXMLParser\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ankit.pal\Documents\SharpDevelop Projects\RobotXMLParser\RobotXMLParser\obj\Debug\RobotXMLParser.exe
+C:\Users\ankit.pal\Documents\SharpDevelop Projects\RobotXMLParser\RobotXMLParser\obj\Debug\RobotXMLParser.pdb

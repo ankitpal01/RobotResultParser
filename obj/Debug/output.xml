@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot rpa="false" generator="Robot 3.1.1 (Jython 2.7.0 on java1.8.0_241)" generated="20200225 15:12:39.085">
+<suite source="D:\RoboPractice\RFSelenium" name="RFSelenium" id="s1">
+<suite source="D:\RoboPractice\RFSelenium\SeleniumTest.robot" name="SeleniumTest" id="s1-s1">
+<test name="xmlparser" id="s1-s1-t1">
+<kw library="BuiltIn" name="Set Variable">
+<doc>Returns the given values which can then be assigned to a variables.</doc>
+<arguments>
+<arg>test</arg>
+</arguments>
+<assign>
+<var>${i}</var>
+</assign>
+<msg level="INFO" timestamp="20200225 15:12:40.854">${i} = test</msg>
+<status endtime="20200225 15:12:40.855" starttime="20200225 15:12:40.849" status="PASS"></status>
+</kw>
+<kw library="BuiltIn" name="Log">
+<doc>Logs the given message with the given level.</doc>
+<arguments>
+<arg>he haaa</arg>
+</arguments>
+<msg level="INFO" timestamp="20200225 15:12:40.862">he haaa</msg>
+<status endtime="20200225 15:12:40.864" starttime="20200225 15:12:40.859" status="PASS"></status>
+</kw>
+<kw library="BuiltIn" name="Set Global Variable">
+<doc>Makes a variable available globally in all tests and suites.</doc>
+<arguments>
+<arg>${i}</arg>
+<arg>${i}</arg>
+</arguments>
+<msg level="INFO" timestamp="20200225 15:12:40.870">${i} = test</msg>
+<status endtime="20200225 15:12:40.872" starttime="20200225 15:12:40.867" status="PASS"></status>
+</kw>
+<kw name="temp">
+<kw library="BuiltIn" name="Evaluate">
+<doc>Evaluates the given expression in Python and returns the results.</doc>
+<arguments>
+<arg>2*3</arg>
+</arguments>
+<status endtime="20200225 15:12:40.883" starttime="20200225 15:12:40.877" status="PASS"></status>
+</kw>
+<kw library="BuiltIn" name="Log">
+<doc>Logs the given message with the given level.</doc>
+<arguments>
+<arg>6</arg>
+</arguments>
+<msg level="INFO" timestamp="20200225 15:12:40.889">6</msg>
+<status endtime="20200225 15:12:40.891" starttime="20200225 15:12:40.886" status="PASS"></status>
+</kw>
+<status endtime="20200225 15:12:40.893" starttime="20200225 15:12:40.874" status="PASS"></status>
+</kw>
+<status critical="yes" endtime="20200225 15:12:40.896" starttime="20200225 15:12:40.845" status="PASS"></status>
+</test>
+<status endtime="20200225 15:12:40.900" starttime="20200225 15:12:39.395" status="PASS"></status>
+</suite>
+<status endtime="20200225 15:12:40.908" starttime="20200225 15:12:39.246" status="PASS"></status>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0">Critical Tests</stat>
+<stat pass="1" fail="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" name="RFSelenium" id="s1">RFSelenium</stat>
+<stat pass="1" fail="0" name="SeleniumTest" id="s1-s1">RFSelenium.SeleniumTest</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
