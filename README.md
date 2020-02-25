@@ -6,7 +6,12 @@ Sometimes it’s really hard to go through the RobotFramework logs and find out 
 To overcome this, I build this utility which allows you to extract only those informative log traces in very simple and quick steps.
 
 # Pre-requisites:
-Other than your robotframework setup you would need the Microsoft .Net framework runtime  
+Other than your robotframework setup you might need the Microsoft .Net framework runtime  
+
+# How it works: 
+It takes the RF generated output.xml file and will iterate through all the Suites/Tests/keywords to get only BuiltIn.Log or Failed keyword into consideration along with their parent keyword name. Rest of the keywords, which are passed, are ignored. It will act as substitute for the RF rebot command. But, it will not make any changes in the default robot output.xml file, and you will still be able to produce default log and report htmls via rebot command if the need be.
+
+Therefore, while creating test cases, log the information explicitly, which you want to get in the parsed logs, via RF Log keyword in your test cases. Refer to the screenshots below to clarify.
 
 # A quick demo reference:
 Just to demonstrate the difference please refer the below given screenshots:
