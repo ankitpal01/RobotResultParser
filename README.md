@@ -40,6 +40,7 @@ You will need to call the exe along with argument <i>--path path_of_the_output.x
 # Downloading the utility:
 In order to get this utility, go to <i>RobotResultParser/Publish/</i> in this repository and download the <i>RobotXMLParser.exe</i> and you are all set to use it.
 
-If you find it useful, please dont forget to give Star to my profile. It would definitely encourage me to build and share many other utils.
+
+If you find it useful, please dont forget to give Star to this utility. It would definitely encourage me to build and share many other utils.
 
 Thanks.
