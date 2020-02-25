@@ -17,9 +17,11 @@ Therefore, while creating test cases, log the information explicitly, which you 
 Just to demonstrate the difference please refer the below given screenshots:
 
 Rebot: log.html : Below given is the screenshot from the default RF reporting engine(rebot) which have log traces of every single steps. However, we might be interested only in the highlighted(in yellow) info.
+
  ![Screenshot](img_orig.png)
  
 RobotParser: 20150709-113747_LOG.html : Below given is the screenshot from the RobotXMLParser logs which have the only informative log traces and have removed all the unnecessary keywords & their details.
+
  ![Screenshot](img_parsed.png)
  
 # Usage:
@@ -37,3 +39,7 @@ You will need to call the exe along with argument <i>--path path_of_the_output.x
   
 # Downloading the utility:
 In order to get this utility, go to <i>RobotResultParser/Publish/</i> in this repository and download the <i>RobotXMLParser.exe</i> and you are all set to use it.
+
+If you find it useful, please dont forget to give Star to my profile. It would definitely encourage me to build and share many other utils.
+
+Thanks.
